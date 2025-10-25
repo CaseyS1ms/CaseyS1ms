@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CaseyS1ms I am currently a student and I am studying javascript with an interest in python.
+- 👋 I am a First Year University of Nottingham Computer Science student 
 - 📫 How to reach me ... caseysims07@icloud.com
 
 
